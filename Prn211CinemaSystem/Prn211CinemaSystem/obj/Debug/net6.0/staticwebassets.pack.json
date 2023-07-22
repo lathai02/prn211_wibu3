@@ -1,0 +1,477 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WibuCinema.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WibuCinema.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\assets\\_0_d41d8cd98f00b204e9800998ecf8427e.JPG",
+      "PackagePath": "staticwebassets\\assets\\_0_d41d8cd98f00b204e9800998ecf8427e.JPG"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\assets\\_0_d41d8cd98f00b204e9800998ecf8427e.png",
+      "PackagePath": "staticwebassets\\assets\\_0_d41d8cd98f00b204e9800998ecf8427e.png"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\assets\\_1_d41d8cd98f00b204e9800998ecf8427e.png",
+      "PackagePath": "staticwebassets\\assets\\_1_d41d8cd98f00b204e9800998ecf8427e.png"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\assets\\_2_d41d8cd98f00b204e9800998ecf8427e.png",
+      "PackagePath": "staticwebassets\\assets\\_2_d41d8cd98f00b204e9800998ecf8427e.png"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\assets\\_3_d41d8cd98f00b204e9800998ecf8427e.png",
+      "PackagePath": "staticwebassets\\assets\\_3_d41d8cd98f00b204e9800998ecf8427e.png"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\assets\\default.jpg",
+      "PackagePath": "staticwebassets\\assets\\default.jpg"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\assets\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\favicon.png"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\assets\\film-lycoris-recoil.jpg",
+      "PackagePath": "staticwebassets\\assets\\film-lycoris-recoil.jpg"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\assets\\frog.svg",
+      "PackagePath": "staticwebassets\\assets\\frog.svg"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\card.css",
+      "PackagePath": "staticwebassets\\css\\card.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\nav-bar.css",
+      "PackagePath": "staticwebassets\\css\\nav-bar.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\responsive-form.css",
+      "PackagePath": "staticwebassets\\css\\responsive-form.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\setting.css",
+      "PackagePath": "staticwebassets\\css\\setting.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\style-admin.css",
+      "PackagePath": "staticwebassets\\css\\style-admin.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\css\\watch.css",
+      "PackagePath": "staticwebassets\\css\\watch.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\error-pages\\403.html",
+      "PackagePath": "staticwebassets\\error-pages\\403.html"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\error-pages\\404.html",
+      "PackagePath": "staticwebassets\\error-pages\\404.html"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\error-pages\\500.html",
+      "PackagePath": "staticwebassets\\error-pages\\500.html"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\comment-websocket.js",
+      "PackagePath": "staticwebassets\\js\\comment-websocket.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\datatables.js",
+      "PackagePath": "staticwebassets\\js\\datatables.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\film.js",
+      "PackagePath": "staticwebassets\\js\\film.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\html-encode.js",
+      "PackagePath": "staticwebassets\\js\\html-encode.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\nav-bar.js",
+      "PackagePath": "staticwebassets\\js\\nav-bar.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\recaptcha.js",
+      "PackagePath": "staticwebassets\\js\\recaptcha.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\js\\watch.js",
+      "PackagePath": "staticwebassets\\js\\watch.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\SUMMER2023\\PRN211\\codeTrong\\prn211_wibu\\Prn211CinemaSystem\\Prn211CinemaSystem\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WibuCinema.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WibuCinema.props",
+      "PackagePath": "build\\WibuCinema.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WibuCinema.props",
+      "PackagePath": "buildMultiTargeting\\WibuCinema.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WibuCinema.props",
+      "PackagePath": "buildTransitive\\WibuCinema.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
